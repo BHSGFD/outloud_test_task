@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd446d00951c499196bc06a8ad448670, type: 3}
   m_Name: CardGameConfig
   m_EditorClassIdentifier: Assembly-CSharp::CardGameConfig
-  <Size>k__BackingField: 2
   <Time>k__BackingField: 120
+  <Size>k__BackingField: 4
